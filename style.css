@@ -1,0 +1,166 @@
+
+.fullWidth{
+	width:100%;
+
+
+}
+img{
+	width:100%;
+	height:450px;
+
+}
+p{
+	margin:100px;
+}
+
+.mainWidth{
+	margin-top:;
+}
+.mainColor{
+	background-image:url();
+
+}
+#slider{ 
+	
+	display:block;
+	
+}
+
+#header{
+
+
+}
+.menu{
+        color:#fff;
+		list-style-type: none;
+		display: inline-block;
+		padding:8px 16px;
+		text-decoration: none;
+		text-transform:uppercase;
+		transition:width 2s;
+		border-style:1px solid;
+	}
+	.menu ul{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	width: 100%;
+	margin: 0 auto;
+	height: 83px;
+	position:fixed;
+}
+.menu ul li{
+	float: left;
+}
+.menu ul li a{
+	display: block;
+ color: white;
+ padding: 15px 0px 15px 0px;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ height: 83px;
+ color: black;
+ width: 130px;
+ font-size: 1.8em;
+ line-height: 55px;
+ border-left: 1px solid lightgray;
+ border-right: 1px solid lightgray;
+
+}
+.menu ul li a:hover{
+	background: #222533;
+	color: white;
+	transition: all .2s ease;
+	
+}
+.home{
+	margin-left: 45px;
+	color: white;
+}
+input{
+	width: 200px;
+	margin-top: 10px;
+	height: 60px;
+}
+.block1{
+   width:200px;
+   height:50px;
+   background:white;
+   border:1px solid;
+   left:550px;
+   top:300px;
+   opacity:.5;
+}
+
+.person{
+	width:400px;
+	height:400px;
+	display:inline-block;
+	position:relative;
+	overflow:hidden;
+
+}
+.person .back{
+	position:absolute;
+	top:100%;
+	width:100%;
+	height:100%;
+	background:grey;
+	transition:top .3s ease;
+	opacity:.8;
+	text-align:center;
+	
+}
+
+.person:hover .back{
+  top:0;
+}
+.block2{
+	display:inline-block;
+	margin:58px;
+
+}
+.block4{
+
+	border:1px solid black;
+	padding-left:230px;
+
+
+}
+.block4 div{
+	width:300px;
+	height:410px;
+	display:inline-block;
+	margin:40px;
+}
+
+.block4 div:first-child img{
+ margin-bottom:210px;
+}
+.img5{width:350px;
+	height:20px;
+	margin-left:80px;
+    margin-top:50px;
+}
+
+.davic{
+	left:500px;
+}
+.footer {
+	height:200px;
+	background-color:#1D3C3F;
+}
+address{
+	color: white;
+}
+
+footer img{
+   width:50px;
+   height:50px;
+  right:600px;
+
+}
+.img6{
+	right:600px;
+}
